@@ -14,21 +14,15 @@
         <icon>//oxm1.cc/img/app_default.png</icon>
     </p>
     <data>
-            <story-list>
-        <i>
-            <type>
-                camera
-            </type>
-            <title>
-                camera
-            </title>
-            <img>
-                //a.oxm1.cc/img/fox.jpg
-            </img>
-            <href>
-                watch
-            </href>
-        </i>
-    </story-list>
+        <storylist>
+            <i>
+                <img>http://i.oxm1.cc/uploads/git/wurui/img/2a4n37v5gTjep9tqkcR3ebfAlco-744.jpg</img>
+                <type>商业故事</type>
+                <title>OPENXSL｜懂你所想，更懂你不变的爱</title>
+                <href></href>
+                <content>OpenXSL的核心理念是拆分。拆分数据与表现，拆分工作流...做到智能建站、一键建站、快速上线...</content>
+                <time><M>3</M><d>11</d><y>2018</y></time>
+            </i>
+        </storylist>
     </data>
 </root>
