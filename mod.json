@@ -1,6 +1,11 @@
 {
   "name": "story-detail",
   "version": "0.0.1",
-  "apiDependencies": ["storylist"]
+  "apiDependencies": [
+  	{
+  		"name":"storylist",
+  		"selector":"_id"
+  	}
+  ]
 }
 
