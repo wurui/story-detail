@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<?xml-stylesheet type="text/xsl" href="demo.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../demo.xsl"?>
 <root>
     <env>
         <domain>local</domain>
@@ -14,7 +14,7 @@
         <icon>//oxm1.cc/img/app_default.png</icon>
     </p>
     <data>
-        <storylist>
+        <storylist SELECTOR="_id">
             <i>
                 <img>http://i.oxm1.cc/uploads/git/wurui/img/2a4n37v5gTjep9tqkcR3ebfAlco-744.jpg</img>
                 <type>商业故事</type>
